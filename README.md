@@ -41,17 +41,13 @@
 
 <p align="left">
   <strong>Version Control:</strong>
-  <img align="center" src="https://img.icons8.com/color/48/000000/git.png"/> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> Git</a>
+  <img align="center" src="https://img.icons8.com/color/48/000000/git.png"/> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> Git</a>, 
+  <img align="center" src="https://img.icons8.com/color/48/000000/github.png"/> <a href="https://github.com/" target="_blank" rel="noreferrer"> Git</a>
 </p>
-
-<p align="left">
-  <strong>CI/CD:</strong>
-  <img align="center" src="https://img.icons8.com/color/48/000000/jenkins.png"/> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> Jenkins</a>
-</p>
-
 <p align="left">
   <strong>DevOps:</strong>
-  <img align="center" src="https://img.icons8.com/color/48/000000/docker.png"/> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> Docker</a>
+    <img align="center" src="https://img.icons8.com/color/48/000000/jenkins.png"/> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> Jenkins</a>,
+    <img align="center" src="https://img.icons8.com/color/48/000000/docker.png"/> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> Docker</a>
 </p>
 
 <p align="left">
