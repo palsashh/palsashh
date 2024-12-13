@@ -11,7 +11,7 @@
 ### 🌐 About Me
 
 - 🚀 **Full-stack Developer** at **Infosys**
-- 🌱 Passionate about **MERN Stack Development** and continuously exploring new technologies
+- 🌱 Passionate about **Web Development** and continuously exploring new technologies
 - 🎯 Actively seeking new challenges as a **Software Engineer**
 - 📧 Let's connect: **[shaship7497@gmail.com](mailto:shaship7497@gmail.com)**
 
